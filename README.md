@@ -23,25 +23,22 @@
 ---
 # IT Documentation Portfolio  
 
-**By Chiagozie Kizito Njika – IT Support Specialist | Tier 1 | Home Projects & Self-Taught**
+**By Birendra Singh – IT Support Specialist | Entry-Expert | Home Lab Projects & Self-Taught**
 
-Welcome to my IT Documentation Portfolio. This repository is a result of months of practical learning, hands-on projects, and deep study across various areas in IT, from system administration and cloud technologies to remote support and troubleshooting.  
-My goal is to make this a living portfolio that showcases my technical growth, problem-solving mindset, and readiness to contribute effectively in a professional IT environment without relying on empty buzzwords. I'm ready and eager to put my absolute best in a work environment and help people.
+Welcome to my IT Documentation Portfolio. This repository is a result of months of practical learning, hands-on configuration, and deep study across various areas in IT ,from system administration and cloud technologies to remote support and troubleshooting.  
 
 ---
 ## About Me
 
-I’m an IT Support Specialist with a solid foundation built through certifications, hands-on projects, real-world troubleshooting, and consistent documentation.
-
-I combine technical know-how with a strong customer service skills working in consumer goods industry where I learnt how to communicate clearly, staying calm under pressure, and making sure every user feels heard and supported. My goal is to deliver solutions that work and experiences that leave a positive impression.
+I’m an aspiring IT Support Specialist who has built a strong foundation through personal lab projects, real-world scenarios, and consistent documentation practice. I believe in learning by doing, and everything in this repository is a reflection of that mindset and hard-work that I have put in to achieve my dreams of growing in IT.
 
 I currently hold certifications in:
 
 - **Google Cybersecurity Professional Certificate**
 - **ISC2 Certified in Cybersecurity (CC)**
-- **CompTIA A+ &  IT Fundamentals (ITF+)**
+- **CompTIA A+ & IT Fundamentals (ITF+)**
 - **Google IT Support Professional Certificate**
-- **Udemy and Microsoft Learn Paths on Windows Server, Intune, and Microsoft 365**
+- **Microsoft Learn Paths on Windows Server, Intune, and Microsoft 365**
 
 My goal is to work remotely in a dynamic MSP or IT environment where I can grow, contribute, and provide value.
 
@@ -51,18 +48,18 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 ### Windows & Windows Server  
 - [Windows Troubleshooting](Windows-Server/Windows-Troubleshooting.md)  
 - [Windows Server](Windows-Server/Windows-Server.md)  
-- [Active Directory](Windows-Server/Active-Directory.md)  
+- [Active Directory](Windows-Server/Active-Directory.md)
 - [Group Policy Management](Windows-Server/Group-Policy-Management.md)
 - [File Sharing](Windows-Server/File-Sharing.md)
 
 ### Networking & Security  
 - [Networking Troubleshooting](Network/Networking-Troubleshooting.md)  
 - [DNS](Network/DNS.md)  
-- [DHCP](Network/DHCP)
+- [DHCP](Network/DHCP)  
 
 ### Microsoft 365  
 - [Microsoft 365 Administration](Microsoft365/Microsoft-365-Administration.md)  
-- [Exchange, SharePoint, Teams](Microsoft365/Exchange-Administration.md)  
+- [Exchange, SharePoint, Teams](Microsoft365/Exchange-Administration.md)
 - [Microsoft 365 Deployment](Microsoft365/Microsoft-365-Deployment.md)  
 
 ### Intune & Endpoint Management  
@@ -71,18 +68,9 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 - [App Deployment](Intune/App-Deployment.md)  
 - [Intune Troubleshooting](Intune/Enrollment-Troubleshooting.md)  
 
-### Powershell & Automation
-- [Powershell fundamentals](Powershell/Powershell-Absolute-Fundamentals.md)
-- [Powershell Automation](Powershell/Powershell-Automation.md)
-
-### Level Remote Monitoring Management & Automation
-- [Level RMM](Level-RMM/Level-Overview.md)
-- [Automation with Level RMM](Level-RMM/Level-RMM-Automation.md)
-
-
 ### Azure & Cloud  
 - [Azure VM Setup](Azure/Virtual-Machines-Setup.md)  
-- [Azure Entra ID](Azure/Entra-ID-Fundamentals.md)
+- [Azure Entra ID](Azure/Entra-ID-Fundamentals.md)  
 
 ### IT Support & Communication  
 - [Customer Communication](CustomerService/Communication-Best-Practices.md)  
@@ -90,19 +78,20 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 - [Ticketing Best Practices](CustomerService/Ticketing-Best-Practices.md)  
 
 ### Ticketing & MSP Tools  
-- [ServiceNow-Ticketing](Ticketing-Systems/ServiceNow-Ticketing.md)
-- [HaloPSA](Ticketing-Systems/HaloPSA)
-- [Zendesk](Ticketing-Systems/Zendesk.md)
+- [ConnectWise](ConnectWise/Ticketing-Best-Practices.md)  
+- [ServiceNow, Zendesk](Ticketing-Systems/ServiceNow-Ticketing.md)  
+- [HaloPSA](Ticketing-Systems/HaloPSA)  
 
 ### Troubleshooting  
 - [Printer Issues](Troubleshooting/Printer-Issues.md)  
 - [Outlook Issues](Troubleshooting/Outlook-Issues.md)  
-- [Domain Trust Failure](Troubleshooting/Domain-Trust-Relationship-Failed.md)
-- [Troubleshooting-IT-Issues](Troubleshooting/Troubleshooting-IT-Issues.md)
+- [WiFi Issues](Troubleshooting/WiFi-Connection-Issues.md)  
+- [Domain Trust Failure](Troubleshooting/Domain-Trust-Relationship-Failed.md)  
 
-###  PDQ Deploy & PDQ Inventory
-- [PDQ Deploy Guide](PDQ/PDQ-Deploy-Automation.md)
-- [PDQ-Inventory](PDQ/PDQ-Inventory.md)
+### SCCM & PDQ Deploy  
+- [SCCM Overview](SCCM/SCCM-Overview.md)  
+- [Application Deployment](SCCM/Deploying-Applications.md)  
+- [PDQ Deploy Guide](PDQ/PDQ-Deploy-Automation.md)  
 
 ### Remote Access  
 - [TeamViewer](Remote-Connection/TeamViewer)  
@@ -113,20 +102,20 @@ My goal is to work remotely in a dynamic MSP or IT environment where I can grow,
 
 - Real experience from home lab environments simulating MSP-like issues  
 - Structured troubleshooting and documentation workflow  
-- Personal growth log as I develop toward a full-time IT support role .
+- Personal growth log as I develop toward a full-time IT support role  
 
 This is more than just notes. It's a living portfolio, created out of dedication to build practical, real-world knowledge and help others along the way.
 
 ---
 ## Let’s Connect
 
-If you're an **MSP CEO, CTO, or hiring manager** looking for someone with:
+If you're an **MSP, CTO, or remote team hiring manager** looking for someone with:
 
 - The ability to learn fast  
 - Practical troubleshooting mindset  
 - Strong communication and documentation skills  
 
 Please reach out. I’d love to contribute and grow within your team.
-- **LinkedIn**: [Chiagozie Njika](https://www.linkedin.com/in/chiagozie-njika-a24660284)  
-- **GitHub**: [kizito9898](https://github.com/kizito9898)  
-- **Email**: chiagozienjika078@gmail.com  or Njikakizito@gmail.com 
+- **LinkedIn**: [Birendra Singh](https://www.linkedin.com/in/birennegi)  
+- **GitHub**: [BirenNegi](https://github.com/BirenNegi)  
+- **Email**: negiveer227@gmail.com  

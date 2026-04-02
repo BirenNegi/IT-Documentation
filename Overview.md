@@ -23,7 +23,7 @@
 ---
 # IT Documentation Portfolio  
 
-**By Chiagozie Njika – IT Support Specialist | Entry-Level | Home Lab Projects & Self-Taught**
+**By Birendra Singh – IT Support Specialist | Entry-Expert | Home Lab Projects & Self-Taught**
 
 Welcome to my IT Documentation Portfolio. This repository is a result of months of practical learning, hands-on configuration, and deep study across various areas in IT ,from system administration and cloud technologies to remote support and troubleshooting.  
 
@@ -116,6 +116,6 @@ If you're an **MSP, CTO, or remote team hiring manager** looking for someone wit
 - Strong communication and documentation skills  
 
 Please reach out. I’d love to contribute and grow within your team.
-- **LinkedIn**: [Chiagozie Njika](https://www.linkedin.com/in/chiagozie-njika-a24660284)  
-- **GitHub**: [kizito9898](https://github.com/kizito9898)  
-- **Email**: chiagozienjika078@gmail.com  
+- **LinkedIn**: [Birendra Singh](https://www.linkedin.com/in/birennegi)  
+- **GitHub**: [BirenNegi](https://github.com/BirenNegi)  
+- **Email**: negiveer227@gmail.com  
