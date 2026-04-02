@@ -117,5 +117,5 @@ If you're an **MSP, CTO, or remote team hiring manager** looking for someone wit
 
 Please reach out. I’d love to contribute and grow within your team.
 - **LinkedIn**: [Birendra Singh](https://www.linkedin.com/in/birennegi)  
-- **GitHub**: [BirenNegi](https://github.com/BirenNegi)  
+- **GitHub**: [Birendra Singh](https://github.com/BirenNegi)  
 - **Email**: negiveer227@gmail.com  
